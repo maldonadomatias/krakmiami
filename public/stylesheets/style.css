@@ -179,6 +179,7 @@ img{
 }
 
 .slide-number{
+  display: none;
   font-family: 'Comfortaa';
   font-weight: 600;
   font-size: 3rem;
@@ -612,6 +613,7 @@ footer{
 
   .slide-number{
     font-size: 5rem;
+    display: flex;
   }
 
     /* Frame 4 */
